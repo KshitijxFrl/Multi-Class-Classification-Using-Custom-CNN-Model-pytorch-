@@ -4,7 +4,16 @@ This is a multi class classification project which is using a custom cnn model f
 The dataset used for this project is a custom data set (***Feel free to download and use it***) with four different classes (ABCD -> Aeroplane, Bus, Cat, Dog).The entire dataset is having two compoents first one is dataset (on this data set is trained) and second one is testdata (on this data set is tested). 
 # Project Requirment
 -> Pytorch (recommended latest version)
+
 -> Numpy
+
 -> A Graphic Card (any basic card will work)
 # Project Createad and Tested On
+CPU-INTEL I5
+
+RAM-8GB DDR4 
+
+Editor-VScode
+
+Python Version - 3.9
 
