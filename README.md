@@ -11,6 +11,8 @@ The dataset used for this project is a custom data set (***Feel free to download
 # Project Createad and Tested On
 CPU-INTEL I5
 
+GPU-gtx 1050 4gb/ gtx 1070/ rtx 3080
+
 RAM-8GB DDR4 
 
 Editor-VScode
